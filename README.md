@@ -19,8 +19,10 @@ My background is in development, which means I think in code first and threat mo
 
 ## 📬 Find me
 
+[![Website](https://img.shields.io/badge/Blog-appsecguy.se-blue?style=flat-square)](https://www.alexiou.dev/)
 [![Blog](https://img.shields.io/badge/Blog-appsecguy.se-blue?style=flat-square)](https://appsecguy.se)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-nkalexiou-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/nkalexiou)
+
 
 <!--
 **nkalexiou/nkalexiou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
