@@ -11,9 +11,10 @@ My background is in development, which means I think in code first and threat mo
 
 ## 🔐 What I do
 
-- **Product & Application Security** — threat modeling, secure design, SDLC integration
-- **Security tooling** — automating security controls so developers don't have to think twice
-- **Writing** — sharing what I learn at [appsecguy.se](https://appsecguy.se)
+- **Product & Application Security** — Secure product design, Secure-SDLC, DevSecOps
+- **AI Security** - AI Architecture Security, AI systems Threat Modeling
+- **Security tooling** — Security controls automations, LLM & workflow automations
+- **Writing** — Sharing what I learn at [appsecguy.se](https://appsecguy.se)
 
 ---
 
